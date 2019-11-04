@@ -1,5 +1,7 @@
 # Dice_Game
-Simple website that utilizes JavaScript and was made by following a udemy course.
+Simple website that utilizes JavaScript to mimic the throwing of a dice against another player. 
+
+Tech: HTML, CSS, JavaScript Year: 2019
 
 Reload page to see who wins. Player 1: left Player 2: right
 
